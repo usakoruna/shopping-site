@@ -219,12 +219,12 @@ body {
     background-image: url("../images/top/next_icon_gray.png");
     background-size: 8px 14px;
     margin-bottom: 2px; }
-.contents #sidebar .pc_sidemenu #more .more_contents {
+.contents #sidebar .pc_sidemenu .more .more_contents {
   background-color: #fff;
   margin-bottom: 10px; }
-.contents #sidebar .pc_sidemenu #more .more_title {
+.contents #sidebar .pc_sidemenu .more .more_title {
   background-color: #887f69; }
-.contents #sidebar .pc_sidemenu #more .more_info a {
+.contents #sidebar .pc_sidemenu .more .more_info a {
   display: block;
   text-decoration: none; }
 
@@ -328,21 +328,21 @@ footer .container .copy {
     margin-bottom: 10px; }
     .contents .pc_sidemenu .side_li li {
       padding: 10px 15px; }
-  .contents .pc_sidemenu #more .more_contents .more_title {
+  .contents .pc_sidemenu .more .more_contents .more_title {
     padding: 10px 15px; }
-  .contents .pc_sidemenu #more .more_contents .more_info {
+  .contents .pc_sidemenu .more .more_contents .more_info {
     display: flex;
     justify-content: space-between;
     margin-top: 10px; }
-    .contents .pc_sidemenu #more .more_contents .more_info .more_image, .contents .pc_sidemenu #more .more_contents .more_info .more_text {
+    .contents .pc_sidemenu .more .more_contents .more_info .more_image, .contents .pc_sidemenu .more .more_contents .more_info .more_text {
       width: 50%;
       margin: 0 2%; }
-    .contents .pc_sidemenu #more .more_contents .more_info p {
+    .contents .pc_sidemenu .more .more_contents .more_info p {
       margin: 0;
       font-size: 11px;
       font-size: 1.1rem;
       padding-bottom: 5px; }
-    .contents .pc_sidemenu #more .more_contents .more_info .btn {
+    .contents .pc_sidemenu .more .more_contents .more_info .btn {
       margin: 10px 0; }
 
   footer .container #to_top {
